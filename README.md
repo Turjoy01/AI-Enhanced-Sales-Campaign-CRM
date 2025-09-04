@@ -91,3 +91,7 @@ Jane Smith,jane@company.com,Business Inc,Marketing,987-654-3210,7,SMB
 - Consider using professional email services (SendGrid, Mailgun)
 - Add database persistence for campaign history
 - Implement user authentication and multi-tenancy
+
+## Project Demo
+https://jumpshare.com/s/rOkmWDEECx4S6MdEbrFu
+
