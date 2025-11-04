@@ -12,8 +12,8 @@ A FastAPI-based CRM dashboard for managing leads and sending real email campaign
 - Simple, clean web interface
 
 ## Email Credentials for Testing(It just given for 7 days after that i will delete the App Password)
-Email = '2021-2-60-072@std.ewubd.edu'
-App_password = 'tnxw uvnk uwrg axvv'
+Email = 'Give Your Mail'
+App_password = 'Give Your Mail App Pass'
 
 ## Setup Instructions
 
